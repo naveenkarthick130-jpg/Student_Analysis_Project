@@ -1,0 +1,9 @@
+STUDENT PERFORMANCE REPORT
+========================================
+
+Total Students: 5
+Topper: Priya
+Class Average: 77.3%
+Passed Students: 5
+Failed Students: 0
+Pass Percentage: 100.0%
